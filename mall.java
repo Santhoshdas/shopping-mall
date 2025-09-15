@@ -1,5 +1,5 @@
-public class mall {
+public class mall{
     public static void main(String[] args) {
-        System.out.println("san");
+        System.out.println("the changes have been made");
     }
 }
